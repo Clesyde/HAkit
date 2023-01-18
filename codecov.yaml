@@ -1,0 +1,4 @@
+ignore:
+  - Example
+  - Tests
+  - Extensions/Mocks
